@@ -1,0 +1,19 @@
+{
+  "TestRunner": "",
+  "TestPlatform": "x64",
+  "TestApartmentState": "STA",
+  "TestAdapterMode": "Integrated",
+  "IsRedirectingFrameworkAssemblies": true,
+  "TestSettings": "",
+  "ExcludeAttributes": "*Tests;Cherwell.Telemetry.Automation;Microsoft.VisualStudio.TestTools.UnitTesting;System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute",
+  "ExcludeFiles": "",
+  "ExcludeDirectories": "",
+  "Filters": "+[*]*",
+  "IsIncludingSolutionAssemblies": true,
+  "IsExcludingTestAssemblies": false,
+  "IsCoveringByTest": true,
+  "IsMergingByHash": true,
+  "IsSkippingAutoProps": true,
+  "IsVisitorCountLimited": false,
+  "VisitorCountLimit": 10
+}
